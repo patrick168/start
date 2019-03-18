@@ -1,0 +1,295 @@
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojResolveAssemblyReference.cache
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+C:\MVC\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+D:\BOOKCODE原始\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojResolveAssemblyReference.cache
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.exe.config
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csc.rsp
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.exe
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\csi.rsp
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.AppContext.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.exe.config
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\vbc.rsp
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll.config
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\prjShoppingCar.pdb
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Razor.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Helpers.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\System.Web.Mvc.xml
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csprojResolveAssemblyReference.cache
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+D:\Program Design\ASP.NET MVC C# 2017\2017\ch09\slnShoppingCar\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\csc.exe
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\csc.exe.config
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\csc.rsp
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\csi.exe
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\csi.rsp
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.AppContext.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\vbc.exe
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\vbc.exe.config
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\vbc.rsp
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\prjShoppingCar.dll.config
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\prjShoppingCar.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\prjShoppingCar.pdb
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\EntityFramework.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Helpers.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Mvc.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Razor.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\EntityFramework.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Razor.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Helpers.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\System.Web.Mvc.xml
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+D:\Program Design\Develope\shopping car\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.csprojResolveAssemblyReference.cache
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\csc.exe
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\csc.exe.config
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\csc.rsp
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\csi.exe
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\csi.rsp
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.AppContext.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.Collections.Immutable.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.IO.FileSystem.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\vbc.exe
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\vbc.exe.config
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\vbc.rsp
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\VBCSCompiler.exe
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\roslyn\VBCSCompiler.exe.config
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\prjShoppingCar.dll.config
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\prjShoppingCar.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\prjShoppingCar.pdb
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\EntityFramework.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\EntityFramework.SqlServer.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\Microsoft.Web.Infrastructure.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Helpers.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Mvc.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Razor.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.Deployment.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.Razor.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\EntityFramework.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\EntityFramework.SqlServer.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Razor.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.Deployment.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Webpages.Razor.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Helpers.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\System.Web.Mvc.xml
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\EntityFramework.resources.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.resources.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CoreCompileInputs.cache
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.dll
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.pdb
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.csprojAssemblyReference.cache
+E:\Program design\Develope\ShoppingCarUser\prjShoppingCar\obj\Debug\prjShoppingCar.csproj.CopyComplete

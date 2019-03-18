@@ -1,0 +1,72 @@
+﻿@model DBManage.Models.tMember
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>tMember</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.fUserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fUserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fPwd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fPwd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fPhone)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
