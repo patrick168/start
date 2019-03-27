@@ -13,6 +13,10 @@
 input,
 select,
 textarea {
+  /*  max-width: 280px; */
+}
+
+.length-strict {
     max-width: 280px;
 }
 

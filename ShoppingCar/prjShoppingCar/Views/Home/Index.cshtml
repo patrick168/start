@@ -15,19 +15,19 @@
                 }
                 else
                 {
-                   <img src="~/images/@item.fImg" style="width:70%">
+                    <img src="~/images/@item.fImg" style="width:70%">
                 }
                 <div class="caption">
                     <h2>@item.fName</h2>
                     <p>單價：@item.fPrice</p>
                     @if (Session["Member"] == null)
-        {
-            <p></p>
-}
-else
-{
-            <p><a href="@Url.Action("AddCar")?fPId=@item.fPId" class="btn btn-primary">加入購物車</a></p>
-}
+                    {
+                        <p></p>
+                    }
+                    else
+                    {
+                        <p><a href="@Url.Action("AddCar")?fPId=@item.fPId" class="btn btn-primary">加入購物車</a></p>
+                    }
                 </div>
             </div>
         </div>

@@ -104,7 +104,6 @@
     <Content Include="Global.asax" />
     <Content Include="images\iphone8.jpg" />
     <Content Include="images\ps4.jpg" />
-    <Content Include="images\xboxone.jpg" />
     <Content Include="Models\dbShoppingCarModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>dbShoppingCarModel.edmx</DependentUpon>
