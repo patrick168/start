@@ -17,17 +17,17 @@ namespace prjShoppingCar.Models
     public partial class tProduct
     {
         public int fId { get; set; }
-
-      
+        
+        [DisplayName("產品編號")]
         public string fPId { get; set; }
 
-      
+        [DisplayName("品名")]
         public string fName { get; set; }
 
-
+        [DisplayName("單價")]
         public Nullable<int> fPrice { get; set; }
 
-      
+        [DisplayName("圖示")]
         public string fImg { get; set; }
     }
 }

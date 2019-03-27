@@ -97,6 +97,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\dbShoppingCar.mdf" />
+    <Content Include="App_Data\dbShoppingCar_log.ldf">
+      <DependentUpon>dbShoppingCar.mdf</DependentUpon>
+    </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
@@ -161,8 +165,6 @@
     <Compile Include="Models\tMember.cs">
       <DependentUpon>dbShoppingCarModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\tProductPartial.cs" />
-    <Compile Include="Models\tMemberPartial.cs" />
     <Compile Include="Models\tOrder.cs">
       <DependentUpon>dbShoppingCarModel.tt</DependentUpon>
     </Compile>
@@ -203,7 +205,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Views\Default\" />
   </ItemGroup>
   <ItemGroup>
