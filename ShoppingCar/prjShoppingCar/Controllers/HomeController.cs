@@ -39,7 +39,12 @@ namespace prjShoppingCar.Controllers
             return View("Index", "_LayoutMember", products);
         }
 
-        string loginTitle = "會員登入";
+        public ActionResult About()
+        {
+            return View();
+        }
+
+            string loginTitle = "會員登入";
 
         //Get: Home/Login
         public ActionResult Login()
